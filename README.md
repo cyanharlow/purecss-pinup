@@ -8,7 +8,7 @@ Rules I have for myself:
 2. Only a text editor and Chrome Developer Tools allowed.
 3. No SVG
 
-Because of the artistic nature of this project I have not concerned myself with cross-browser-compatibility, so the live preview will most likely look laughable in anything other than chrome.
+Because of the artistic nature of this project I have not concerned myself with cross-browser-compatibility, so the live preview will most likely look laughable in anything other than Chrome.
 
 [cyanharlow.github.io/purecss-pinup](https://cyanharlow.github.io/purecss-pinup/)
 
