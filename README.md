@@ -12,4 +12,4 @@ Because of the artistic nature of this project I have not concerned myself with 
 
 [cyanharlow.github.io/purecss-pinup](https://cyanharlow.github.io/purecss-pinup/)
 
-![alt text](https://raw.githubusercontent.com/cyanharlow/purecss-pinup/main/preview.jpg)
+![alt text](https://raw.githubusercontent.com/cyanharlow/purecss-pinup/main/preview.png)
